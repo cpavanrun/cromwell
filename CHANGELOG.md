@@ -2,6 +2,10 @@
 
 ## 40 Release Notes
 
+### Workflow Options
+
+* It is now possible to supply custom `google-labels` in [workflow options](https://cromwell.readthedocs.io/en/stable/wf_options/Google/).
+
 ### Cromwell ID in instrumentation path
 
 When set, the configuration value of `system.cromwell_id` will be prepended to StatsD metrics. More info [here](https://cromwell.readthedocs.io/en/stable/developers/Instrumentation/).
