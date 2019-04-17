@@ -8,6 +8,6 @@ files {
 metadata {
   workflowName: alias_separation
   status: Succeeded
-  "outputs.alias_separation.t2out".0: "t2"
-  "outputs.alias_separation.t1out".0: "t1"
+  "outputs.alias_separation.t2out.0": "t2"
+  "outputs.alias_separation.t1out.0": "t1"
 }
